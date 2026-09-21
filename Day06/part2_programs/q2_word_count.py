@@ -1,0 +1,6 @@
+f=open("Day06/part1_basics/student.txt","r")
+data=f.read()
+words=len(data.split())
+print(f"total words in file:{words}")
+print(data)
+f.close()
