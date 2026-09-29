@@ -1,0 +1,8 @@
+
+--- Student Data Analyzer Report - Day14 Project ---
+Topper: Riya - 92 marks
+Average Marks: 73.00
+Placed: 3 | Not Placed: 2
+Most Demanded Skill: [('python', 4)]
+Failed Students: ['Karan']
+
